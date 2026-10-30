@@ -118,6 +118,14 @@ Em alternativa, na pasta do projeto, executar:
 
 [GitHubHandsOnDemo](https://github.com/FgAraujo-web/GitHubHandsOnDemo)
 
+## Tutorial completo em PDF
+
+O guia técnico inclui explicações passo a passo,
+capturas reais do Visual Studio 2026 e os comandos
+utilizados durante o exercício.
+
+📘 [Consultar o tutorial completo em PDF](docs/HANDS_ON_01_Git_GitHub_Visual_Studio_2026.pdf)
+
 ---
 
 **Ponto de Conhecimento Tecnológico | HANDS-ON**
